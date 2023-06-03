@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Basic Product Review Using Flexbox]( https://www.frontendmentor.io/solutions/basic-product-review-using-flexbox-mr-kN4A0JJ)
+- Live Site URL: [Live SIte](https://basicproductpreview.netlify.app/)
 
 ## My process
 
